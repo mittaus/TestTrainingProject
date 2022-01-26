@@ -5,12 +5,12 @@ using DataModel;
 namespace TestsHelper
 {
     /// <summary>
-    /// Data initializer for unit tests
+    /// Inicializador de datos para pruebas unitarias
     /// </summary>
     public class DataInitializer
     {
         /// <summary>
-        /// Dummy products
+        /// productos ficticios
         /// </summary>
         /// <returns></returns>
         public static List<Product> GetAllProducts()
@@ -27,7 +27,7 @@ namespace TestsHelper
         }
 
         /// <summary>
-        /// Dummy tokens
+        /// tokens ficticios
         /// </summary>
         /// <returns></returns>
         public static List<Token> GetAllTokens()
@@ -49,12 +49,12 @@ namespace TestsHelper
                                            UserId = 2
                                        }
                                };
-                               
+
             return tokens;
         }
 
         /// <summary>
-        /// Dummy users
+        /// usuarios ficticios
         /// </summary>
         /// <returns></returns>
         public static List<User> GetAllUsers()

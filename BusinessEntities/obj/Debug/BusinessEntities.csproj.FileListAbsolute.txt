@@ -31,3 +31,8 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessEntities\bi
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\projects\ANA\QAS\code\TestProject\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\projects\ANA\QAS\code\TestProject\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\projects\ANA\QAS\code\TestProject\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+D:\projects\ANA\QAS\code\TestProject\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\projects\ANA\QAS\code\TestProject\BusinessEntities\obj\Debug\BusinessEntities.pdb

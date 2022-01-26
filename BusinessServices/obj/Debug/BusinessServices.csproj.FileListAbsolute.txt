@@ -165,3 +165,27 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices\bi
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\BusinessServices.dll
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\AutoMapper.dll
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\DataModel.dll
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\Resolver.dll
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\EntityFramework.dll
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\Microsoft.Practices.Unity.dll
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\DataModel.pdb
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\DataModel.dll.config
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\Resolver.pdb
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\AutoMapper.pdb
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\AutoMapper.xml
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\EntityFramework.xml
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\Microsoft.Practices.Unity.xml
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\obj\Debug\BusinessServices.csproj.AssemblyReference.cache
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\obj\Debug\BusinessServices.csproj.CoreCompileInputs.cache
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\obj\Debug\BusinessServices.csproj.CopyComplete
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\obj\Debug\BusinessServices.dll
+D:\projects\ANA\QAS\code\TestProject\BusinessServices\obj\Debug\BusinessServices.pdb

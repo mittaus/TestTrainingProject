@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Schema Namespace="WebApiDbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+<Schema Namespace="WebApiDbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
   <EntityContainer Name="WebApiDbModelStoreContainer">
-    <EntitySet Name="Products" EntityType="WebApiDbModel.Store.Products" store:Type="Tables" Schema="dbo" />
-    <EntitySet Name="Tokens" EntityType="WebApiDbModel.Store.Tokens" store:Type="Tables" Schema="dbo" />
-    <EntitySet Name="User" EntityType="WebApiDbModel.Store.User" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Products" EntityType="WebApiDbModel.Store.Products" store:Type="Tables" Schema="dbo" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <EntitySet Name="Tokens" EntityType="WebApiDbModel.Store.Tokens" store:Type="Tables" Schema="dbo" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <EntitySet Name="User" EntityType="WebApiDbModel.Store.User" store:Type="Tables" Schema="dbo" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
   </EntityContainer>
   <EntityType Name="Products">
     <Key>

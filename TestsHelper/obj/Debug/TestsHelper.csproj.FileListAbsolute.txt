@@ -13,3 +13,30 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Deb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\obj\Debug\TestsHelper.csprojResolveAssemblyReference.cache
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\obj\Debug\TestsHelper.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\obj\Debug\TestsHelper.pdb
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\NUnit3.TestAdapter.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\NUnit3.TestAdapter.pdb
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\nunit.engine.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\nunit.engine.api.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\nunit.engine.core.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\testcentric.engine.metadata.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\TestsHelper.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\TestsHelper.pdb
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\DataModel.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\nunit.framework.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\Resolver.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\EntityFramework.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\Microsoft.Practices.Unity.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\DataModel.pdb
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\DataModel.dll.config
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\nunit.framework.xml
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\Resolver.pdb
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\EntityFramework.xml
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\Microsoft.Practices.Unity.xml
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\obj\Debug\TestsHelper.csproj.AssemblyReference.cache
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\obj\Debug\TestsHelper.csproj.CoreCompileInputs.cache
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\obj\Debug\TestsHelper.csproj.CopyComplete
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\obj\Debug\TestsHelper.dll
+D:\projects\ANA\QAS\code\TestProject\TestsHelper\obj\Debug\TestsHelper.pdb
