@@ -135,30 +135,30 @@ namespace BusinessServices.NUnitTest
 
         #region Unit Tests
 
-        /// <summary>
-        /// Autenticarse con las credenciales correctas
-        /// </summary>
-        [Test]
-        public void AuthenticateTest()
-        {
+        ///// <summary>
+        ///// Autenticarse con las credenciales correctas
+        ///// </summary>
+        //[Test]
+        //public void AuthenticateTest()
+        //{
 
-            var returnId = _userServices.Authenticate(CorrectUserName, CorrectPassword);
-            var firstOrDefault = _users.Where(u => u.UserName == CorrectUserName).FirstOrDefault(u => u.Password == CorrectPassword);
-            if (firstOrDefault != null)
-                Assert.That(returnId, Is.EqualTo(firstOrDefault.UserId));
-        }
+        //    var returnId = _userServices.Authenticate(CorrectUserName, CorrectPassword);
+        //    var firstOrDefault = _users.Where(u => u.UserName == CorrectUserName).FirstOrDefault(u => u.Password == CorrectPassword);
+        //    if (firstOrDefault != null)
+        //        Assert.That(returnId, Is.EqualTo(firstOrDefault.UserId));
+        //}
 
-        /// <summary>
-        /// Autenticarse con las credenciales correctas
-        /// </summary>
-        [Test]
-        public void AuthenticateWrongCredentialsTest()
-        {
+        ///// <summary>
+        ///// Autenticarse con las credenciales correctas
+        ///// </summary>
+        //[Test]
+        //public void AuthenticateWrongCredentialsTest()
+        //{
 
-            var returnId = _userServices.Authenticate(WrongUserName, WrongPassword);
-            var firstOrDefault = _users.Where(u => u.UserName == WrongUserName).FirstOrDefault(u => u.Password == WrongPassword);
-            Assert.That(returnId, firstOrDefault != null ? Is.EqualTo(firstOrDefault.UserId) : Is.EqualTo(0));
-        }
+        //    var returnId = _userServices.Authenticate(WrongUserName, WrongPassword);
+        //    var firstOrDefault = _users.Where(u => u.UserName == WrongUserName).FirstOrDefault(u => u.Password == WrongPassword);
+        //    Assert.That(returnId, firstOrDefault != null ? Is.EqualTo(firstOrDefault.UserId) : Is.EqualTo(0));
+        //}
 
         #endregion
 

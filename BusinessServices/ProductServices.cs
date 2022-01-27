@@ -63,6 +63,12 @@ namespace BusinessServices
         /// <returns></returns>
         public int CreateProduct(BusinessEntities.ProductEntity productEntity)
         {
+            if (productEntity == null)
+                throw new System.Exception("No puede ser nulo");
+
+            if(productEntity.ProductId <= 0)
+                throw new System.Exception("Debe ser un código válido");
+
             using (var scope = new TransactionScope())
             {
                 var product = new Product

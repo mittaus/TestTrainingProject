@@ -427,32 +427,33 @@ namespace ApiController.NUnitTests
 
         #region Integration Test
 
-        /// <summary>
-        /// Get all products test
-        /// </summary>
-        [Test]
-        public void GetAllProductsIntegrationTest()
-        {
-            #region To be written inside Setup method specifically for integration tests
-            var client = new HttpClient { BaseAddress = new Uri(ServiceBaseURL) };
-            client.DefaultRequestHeaders.Add("Authorization", "Basic YWtoaWw6YWtoaWw=");
-            MediaTypeFormatter jsonFormatter = new JsonMediaTypeFormatter();
-            _response = client.PostAsync("login", null).Result;
+        ///// <summary>
+        ///// Get all products test
+        ///// </summary>
+        //[Test]
+        //public void GetAllProductsIntegrationTest()
+        //{
+        //    #region To be written inside Setup method specifically for integration tests
+        //    var client = new HttpClient { BaseAddress = new Uri(ServiceBaseURL) };
+        //    client.DefaultRequestHeaders.Add("Authorization", "Basic YWtoaWw6YWtoaWw=");
+        //    MediaTypeFormatter jsonFormatter = new JsonMediaTypeFormatter();
+        //    _response = client.PostAsync("login", null).Result;
 
-            if (_response != null && _response.Headers != null && _response.Headers.Contains("Token") && _response.Headers.GetValues("Token") != null)
-            {
-                client.DefaultRequestHeaders.Clear();
-                _token = ((string[])(_response.Headers.GetValues("Token")))[0];
-                client.DefaultRequestHeaders.Add("Token", _token);
-            } 
-            #endregion
+        //    if (_response != null && _response.Headers != null && _response.Headers.Contains("Token") && _response.Headers.GetValues("Token") != null)
+        //    {
+        //        client.DefaultRequestHeaders.Clear();
+        //        _token = ((string[])(_response.Headers.GetValues("Token")))[0];
+        //        client.DefaultRequestHeaders.Add("Token", _token);
+        //    } 
+        //    #endregion
 
-            _response = client.GetAsync("v1/Products/Product/allproducts/").Result;
-            var responseResult =
-                JsonConvert.DeserializeObject<List<ProductEntity>>(_response.Content.ReadAsStringAsync().Result);
-            Assert.AreEqual(_response.StatusCode, HttpStatusCode.OK);
-            Assert.AreEqual(responseResult.Any(), true);
-        }
+        //    _response = client.GetAsync("v1/Products/Product/allproducts/").Result;
+        //    var responseResult =
+        //        JsonConvert.DeserializeObject<List<ProductEntity>>(_response.Content.ReadAsStringAsync().Result);
+            
+        //    Assert.AreEqual(_response.StatusCode, HttpStatusCode.OK);
+        //    Assert.AreEqual(responseResult.Any(), true);
+        //}
 
         #endregion
 
