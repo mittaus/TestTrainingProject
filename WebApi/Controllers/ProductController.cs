@@ -39,6 +39,7 @@ namespace WebApi.Controllers
         [GET("all")]
         public HttpResponseMessage Get()
         {
+            //Listado de productos
             var products = _productServices.GetAllProducts();
             var productEntities = products as List<ProductEntity> ?? products.ToList();
             if (productEntities.Any())
