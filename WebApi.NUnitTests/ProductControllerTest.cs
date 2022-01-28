@@ -20,7 +20,7 @@ using WebApi.Controllers;
 using WebApi.ErrorHelper; 
 #endregion
 
-namespace ApiController.NUnitTests
+namespace WebApi.NUnitTests
 {
     [TestFixture]
     public class ProductControllerTest

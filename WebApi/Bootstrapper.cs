@@ -15,7 +15,7 @@ namespace WebApi
             System.Web.Mvc.DependencyResolver.SetResolver(new UnityDependencyResolver(container));
 
             // register dependency resolver for WebAPI RC
-            GlobalConfiguration.Configuration.DependencyResolver = new Unity.WebApi.UnityDependencyResolver(container);
+            //GlobalConfiguration.Configuration.DependencyResolver = new Unity.WebApi.UnityDependencyResolver(container);
         }
 
         private static IUnityContainer BuildUnityContainer()
@@ -28,7 +28,7 @@ namespace WebApi
         public static void RegisterTypes(IUnityContainer container)
         {
             //Component initialization via MEF
-            ComponentLoader.LoadContainer(container, ".\\bin", "WebApi.dll");
+            //ComponentLoader.LoadContainer(container, ".\\bin", "WebApi.dll");
             ComponentLoader.LoadContainer(container, ".\\bin", "BusinessServices.dll");
             ComponentLoader.LoadContainer(container, ".\\bin", "DataModel.dll");
         }

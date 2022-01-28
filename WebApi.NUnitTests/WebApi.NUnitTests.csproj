@@ -12,8 +12,8 @@
     <ProjectGuid>{0A86FF49-D966-4FEF-A451-C27EEDE37065}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ApiController.NUnitTests</RootNamespace>
-    <AssemblyName>ApiController.NUnitTests</AssemblyName>
+    <RootNamespace>WebApi.NUnitTests</RootNamespace>
+    <AssemblyName>WebApi.NUnitTests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>

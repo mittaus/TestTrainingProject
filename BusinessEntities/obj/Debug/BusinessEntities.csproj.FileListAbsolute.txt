@@ -36,3 +36,4 @@ D:\projects\ANA\QAS\code\TestProject\BusinessEntities\bin\Debug\BusinessEntities
 D:\projects\ANA\QAS\code\TestProject\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
 D:\projects\ANA\QAS\code\TestProject\BusinessEntities\obj\Debug\BusinessEntities.dll
 D:\projects\ANA\QAS\code\TestProject\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\projects\ANA\QAS\code\TestProject\BusinessEntities\obj\Debug\BusinessEntities.csproj.AssemblyReference.cache

@@ -12,7 +12,7 @@ using WebApi.ErrorHelper;
 
 namespace WebApi.Controllers
 {
-    [AuthorizationRequired]
+    //[AuthorizationRequired]
     [RoutePrefix("v1/Products/Product")]
     public class ProductController : ApiController
     {
@@ -35,8 +35,10 @@ namespace WebApi.Controllers
         #endregion
 
         // GET api/product
-        [GET("allproducts")]
-        [GET("all")]
+        //[GET("allproducts")]
+        //[GET("all")]
+        [Route("all")]
+        [HttpGet]
         public HttpResponseMessage Get()
         {
             //Listado de productos

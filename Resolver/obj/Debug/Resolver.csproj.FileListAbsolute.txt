@@ -79,3 +79,4 @@ D:\projects\ANA\QAS\code\TestProject\Resolver\obj\Debug\Resolver.csproj.CoreComp
 D:\projects\ANA\QAS\code\TestProject\Resolver\obj\Debug\Resolver.csproj.CopyComplete
 D:\projects\ANA\QAS\code\TestProject\Resolver\obj\Debug\Resolver.dll
 D:\projects\ANA\QAS\code\TestProject\Resolver\obj\Debug\Resolver.pdb
+D:\projects\ANA\QAS\code\TestProject\Resolver\obj\Debug\Resolver.csproj.AssemblyReference.cache
